@@ -1,14 +1,14 @@
 ## <Hello, World!>
 
 Tenho 21 anos, moro em Osasco/SP e recentemente ingressei no mundo da programação! Convido você a olhar meu portifólio e acompanhar de perto minha evolução :)
+
+<br>
  
  <div align="center">
   
   ![plink-cat-plink](https://github.com/AdrielSechini/AdrielSechini/assets/151694056/b1d152c0-6a40-4218-bf84-8d9e433aa13b)
 </div>
 
-
-<br>
 <br>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
@@ -17,15 +17,7 @@ Tenho 21 anos, moro em Osasco/SP e recentemente ingressei no mundo da programaç
  </div>
  
  <br>
- <br>
 
-
- ### Main skills:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-
-
-
- ##    
 <div align="center">
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielSechini&layout=compact&langs_count=7&theme=graywhite"/>
