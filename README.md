@@ -20,12 +20,12 @@ Tenho 21 anos, moro em Osasco/SP e recentemente ingressei no mundo da programaç
  <br>
 
 
-
  ### Main skills:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
 
 
-     
+
+ ##    
 <div align="center">
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielSechini&layout=compact&langs_count=7&theme=graywhite"/>
@@ -38,5 +38,5 @@ Tenho 21 anos, moro em Osasco/SP e recentemente ingressei no mundo da programaç
 
 <a href="" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/adriel-sechini-28494425b/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />                    
-<a href="" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://www.linkedin.com/in/adriel-sechini-28494425b/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />   <a href="" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>                 
+
